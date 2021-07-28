@@ -2,6 +2,9 @@
   "engines": {
     "node": "15.x"
   },
+  "scripts": {
+    "seed": "node seed-drinks.js"
+  },
   "dependencies": {
     "axios": "^0.21.1",
     "lodash": "^4.17.21"
