@@ -1,0 +1,9 @@
+{
+  "engines": {
+    "node": "15.x"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "lodash": "^4.17.21"
+  }
+}
